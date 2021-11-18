@@ -7,14 +7,12 @@
 - 🌱 Portfólio: http://eduardo.infinityfreeapp.com/
 - 💚 Se você tem planos para um ano, plante arroz. Se você tem planos para dez anos, plante uma árvore. Se você tem planos para uma vida inteira, ame uma pessoa.
 
-   <div align="center">
-   <a href="https://beacons.ai/eduardonogueiramartins">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardonogueiramartins&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardonogueiramartins&layout=compact&langs_count=7&theme=merko"/>
-  </div>
-  
-  
-  <div style="display: inline_block"><br>
+<div align="center">
+<a href="https://beacons.ai/eduardonogueiramartins">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardonogueiramartins&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardonogueiramartins&layout=compact&langs_count=7&theme=merko"/>
+</div>
+<div style="display: inline_block"><br>
     <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Edu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Edu-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
@@ -25,9 +23,9 @@
     <img align="center" alt="Edu-AspNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
     <img align="center" alt="Edu-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
     <img align="center" alt="Edu-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
-    
-  </div>
-  
+</div>
+   
+   ## 
   
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
