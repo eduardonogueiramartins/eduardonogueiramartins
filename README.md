@@ -1,11 +1,11 @@
-## Olá! Eu sou Eduardo Nogueira 🍀
+## Hey! Im Eduardo Nogueira Martins🍀
 
-- 🟢 Hoje trabalho com Análise de Sistema e Desenvolvimento Frond End & Back End na Oriente Farma 
-- 📗 Estudando ANGULAR + ASP.NET Core WebAPI
-- 🍏 Apaixonado por Tecnologia e Solução Tecnologica 
-- ☘️ Entre em contato: martins.eduardonogueira@gmail.com
-- 🌱 Portfólio: http://eduardo.infinityfreeapp.com/
-- 💚 Se você tem planos para um ano, plante arroz. Se você tem planos para dez anos, plante uma árvore. Se você tem planos para uma vida inteira, ame uma pessoa.
+- 🟢 Today I work with System Analysis and Frond End & Back End Development at Oriente Farma
+- 📗 Improving knowledge in ANGULAR + .NET Core WebAPI
+- 🍏 Passionate about Technology and Technological Solution
+- ☘️ Contact: martins.eduardonogueira@gmail.com
+- 🌱 Portfolio: http://eduardo.infinityfreeapp.com/
+- 💚 If you have plans for a year, plant rice. If you have plans for ten years, plant a tree. If you have plans for a lifetime, love one person.
 
 <div align="center">
 <a href="https://beacons.ai/eduardonogueiramartins">
